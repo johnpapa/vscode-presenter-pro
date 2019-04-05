@@ -3,6 +3,7 @@
   "displayName": "presenter-pro",
   "description": "Tools for levelling up your presentations",
   "version": "0.1.0",
+  "preview": true,
   "icon": "resources/icon.png",
   "galleryBanner": {
     "color": "#0273D4",
@@ -14,6 +15,7 @@
     "url": "https://github.com/johnpapa/vscode-presenter-pro.git"
   },
   "scripts": {
+    "package": "vsce package",
     "publish": "vsce publish"
   },
   "keywords": [
@@ -23,6 +25,7 @@
     "Tools",
     "Stage"
   ],
+  "publisher": "johnpapa",
   "engines": {
     "vscode": "^1.33.0"
   },
