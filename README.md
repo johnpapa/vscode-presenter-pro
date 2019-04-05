@@ -1,7 +1,7 @@
 # Presenter Pro for Visual Studio Code
 
-[![Badge for version for Visual Studio Code extension johnpapa.vscode-presenter-pro](https://vsmarketplacebadge.apphb.com/version/johnpapa.vscode-presenter-pro.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-presenter-pro&wt.mc_id=vscodepeacock-github-jopapa) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/johnpapa.vscode-presenter-pro.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-presenter-pro)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating/johnpapa.vscode-presenter-pro.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-presenter-pro)
+[![Badge for version for Visual Studio Code extension johnpapa.presenter-pro](https://vsmarketplacebadge.apphb.com/version/johnpapa.presenter-pro.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=johnpapa.presenter-pro&wt.mc_id=vscodepeacock-github-jopapa) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/johnpapa.presenter-pro.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=johnpapa.presenter-pro)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating/johnpapa.presenter-pro.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=johnpapa.presenter-pro)
 This Visual Studio Code extension pack includes a set of extensions that can help presenters while showing code live in person or over recorded.
 
 ## Install
