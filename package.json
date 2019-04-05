@@ -1,0 +1,38 @@
+{
+  "name": "presenter-pro",
+  "displayName": "presenter-pro",
+  "description": "Tools for levelling up your presentations",
+  "version": "0.1.0",
+  "icon": "resources/icon.png",
+  "galleryBanner": {
+    "color": "#0273D4",
+    "theme": "dark"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnpapa/vscode-presenter-pro.git"
+  },
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "keywords": [
+    "Presenter",
+    "Presentation",
+    "Speaking",
+    "Tools",
+    "Stage"
+  ],
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "johnpapa.winteriscoming",
+    "johnpapa.vscode-peacock",
+    "hoovercj.vscode-dimmer",
+    "hoovercj.vscode-power-mode"
+  ]
+}
